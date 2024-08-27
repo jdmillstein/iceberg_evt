@@ -4,4 +4,4 @@ Supporting dataset for Mackie, Millstein, and Serafin (submitted).47 Years of La
 
 ## About this data
 
-Manually verified estimated iceberg sizes from the [BYU/NIC consolidated database]{https://www.scp.byu.edu/data/iceberg/default.html}
+Manually verified estimated iceberg sizes from the [BYU/NIC consolidated database](https://www.scp.byu.edu/data/iceberg/default.html).
