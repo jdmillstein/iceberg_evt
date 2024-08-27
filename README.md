@@ -1,4 +1,4 @@
-# An extreme value theory perspective on large iceberg calving events. 
+# An extreme value theory perspective on large iceberg calving events
 
 Supporting dataset for Mackie, Millstein, and Serafin (submitted).47 Years of Large Antarctic Calving Events: Insights from Extreme Value Theory.
 
